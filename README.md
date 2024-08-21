@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, sou Marcus Vinicius Molina Zaqueu (Marcus Zaqueu)</h1>
-<h3 align="center">Bacharelando em Análise e Desenvolvimento de Sistemas que adora SQL, DELPHI e recentemente Python e Kotlin</h3>
+<h3 align="center">Análise e Desenvolvimento de Sistemas</h3>
 
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=marcuszaqueu&label=Profile%20views&color=0e75b6&style=flat" alt="marcuszaqueu" />
